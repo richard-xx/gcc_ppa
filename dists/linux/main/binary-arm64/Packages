@@ -1,0 +1,39 @@
+Package: gcc-10
+Version: 10.5.0
+Architecture: arm64
+Maintainer: Richard-xx <Richard@arducam.com>
+Priority: optional
+Section: base
+Filename: pool/main/g/gcc-10/gcc-10_10.5.0_arm64.deb
+Size: 37804406
+SHA256: 11e21260bb8181156209dd50edc9acdb269b985aecb0b88933acd01892480103
+SHA1: cd3481c0d86f23c9c013b61e4bee3c1a4df4188a
+MD5sum: 9077555475d9b6007224c8db5fc240cc
+Description: GNU C and C++ compilers built from a weekly development snapshot.
+
+Package: gcc-11
+Version: 11.5.0
+Architecture: arm64
+Maintainer: Richard-xx <Richard@arducam.com>
+Priority: optional
+Section: base
+Filename: pool/main/g/gcc-11/gcc-11_11.5.0_arm64.deb
+Size: 40632574
+SHA256: edbcb815b6b7e1846c1a4e7eadaf71cf3a34419bb9f0c7765349ef4d8a824a3f
+SHA1: eb868d10eaa4023eafa7fb7278320bd484eb7925
+MD5sum: 6e1511ce3069aa0e13003d1ca650bbd9
+Description: GNU C and C++ compilers built from a weekly development snapshot.
+
+Package: gcc-12
+Version: 12.4.0
+Architecture: arm64
+Maintainer: Richard-xx <Richard@arducam.com>
+Priority: optional
+Section: base
+Filename: pool/main/g/gcc-12/gcc-12_12.4.0_arm64.deb
+Size: 43076478
+SHA256: 22086bb67841266f2bc13c6edf671910586d4dcb0bb2f40f719cd0ee54679589
+SHA1: c8e5f2456435cd8164ece07df381e9ebe20b4bdd
+MD5sum: 9f1856b4681bd7bb756e7a1e7a860b65
+Description: GNU C and C++ compilers built from a weekly development snapshot.
+

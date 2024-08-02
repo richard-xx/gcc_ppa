@@ -1,0 +1,7 @@
+Codename: linux
+Architectures: i386 amd64 arm64 armhf
+Components: main 
+UDebComponents: main 
+DDebComponents: main 
+SignWith: 360A71112379F7BD
+

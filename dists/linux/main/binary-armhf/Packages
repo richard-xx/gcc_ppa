@@ -1,0 +1,39 @@
+Package: gcc-10
+Version: 10.5.0
+Architecture: armhf
+Maintainer: Richard-xx <Richard@arducam.com>
+Priority: optional
+Section: base
+Filename: pool/main/g/gcc-10/gcc-10_10.5.0_armhf.deb
+Size: 37108960
+SHA256: 39c5662962723a0fef7eeb00a2432229fbf1490310261cbd073b5e5ca72208ee
+SHA1: 51cd735faf77aa062c8220e0f84462d104045e72
+MD5sum: 48a927f4f590d2064b01447deeb7bbc1
+Description: GNU C and C++ compilers built from a weekly development snapshot.
+
+Package: gcc-11
+Version: 11.5.0
+Architecture: armhf
+Maintainer: Richard-xx <Richard@arducam.com>
+Priority: optional
+Section: base
+Filename: pool/main/g/gcc-11/gcc-11_11.5.0_armhf.deb
+Size: 39381822
+SHA256: 0fc004d3bffa3df6749f2b896c3e5e64b9c60e9e4390a85fcf27dfa4cb3f0074
+SHA1: 8852f75ab466cfda3f7b3872e5e3a4b2963ae395
+MD5sum: dad1ee4b3a4ca4419dae50eb9b6fb363
+Description: GNU C and C++ compilers built from a weekly development snapshot.
+
+Package: gcc-12
+Version: 12.4.0
+Architecture: armhf
+Maintainer: Richard-xx <Richard@arducam.com>
+Priority: optional
+Section: base
+Filename: pool/main/g/gcc-12/gcc-12_12.4.0_armhf.deb
+Size: 41786310
+SHA256: 88222eca355540b418c945c8a24dadef5515ba5c6381c9480199316c926416a7
+SHA1: 9fb5055f20bf3fa1f98976306951403d5d217c96
+MD5sum: e03f49a4d2cd8924088d40ffc912e571
+Description: GNU C and C++ compilers built from a weekly development snapshot.
+
